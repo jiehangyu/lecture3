@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
-
+# Add a line here!!!
 seed_url = "https://www8.gsb.columbia.edu"
 
 urls = [seed_url]    #queue of urls to crawl
